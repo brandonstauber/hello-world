@@ -1,3 +1,3 @@
 # hello-world
-Hello World Training Repository
+Hello World
 This is an edited version
